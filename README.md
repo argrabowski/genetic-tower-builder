@@ -1,4 +1,4 @@
-# Genetic Tower Building
+# Genetic Tower Builder
 
 ## Instructions
 
